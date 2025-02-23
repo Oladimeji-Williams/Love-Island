@@ -1,0 +1,11 @@
+{
+  "name": "love-island",
+  "version": "1.0.0",
+  "description": "user account deletion, user account reporting, and love requestoperations: send, accept, decline, and view pending love requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jim",
+  "license": "ISC"
+}
