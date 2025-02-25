@@ -1,26 +1,20 @@
 {
-  "name": "love-island",
+  "name": "dating_app_api",
   "version": "1.0.0",
-  "description": "this is a love-island backend project assigned to group 4",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Oladimeji-Williams/Love-Island.git"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Oladimeji-Williams/Love-Island/issues"
-  },
-  "homepage": "https://github.com/Oladimeji-Williams/Love-Island#readme",
+  "description": "",
   "dependencies": {
     "bcryptjs": "^3.0.2",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
-    "jsonwebtoken": "^9.0.2"
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.10.1"
   }
 }
